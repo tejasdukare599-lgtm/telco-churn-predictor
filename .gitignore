@@ -1,0 +1,5 @@
+churn.db
+data/clean_customers.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
